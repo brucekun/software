@@ -12,7 +12,7 @@ void main()
 		num3 = 1 + rand() % 100;
 		num4 = 1 + rand() % 100;
 		num = 1 + rand() % 2;
-		if (num = 1)
+		if (num == 1)
 		{
 			fuhao = num1 % 4 + 1;
 			cout << num1;
@@ -25,7 +25,7 @@ void main()
 			}
 			cout << num2 << "=" << endl;
 		}
-		if(num=2)
+		if(num==2)
 		{
 			a = num1;
 			b = num2;
